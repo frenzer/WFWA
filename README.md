@@ -1,0 +1,2 @@
+# WFWA
+Windfury Weakaura
